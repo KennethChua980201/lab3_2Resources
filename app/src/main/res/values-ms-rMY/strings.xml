@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab3_2Resources</string>
+    <string name="message">Apa Khabar Dunia!</string>
+    <string name="show">Tunjuk</string>
+    <string name="greeting">Apa Khabar?</string>
+</resources>
